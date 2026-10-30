@@ -1,0 +1,6 @@
+{
+  "name": "AI Security, Privacy & Trust",
+  "description": "Enterprise AI governance, risk, and compliance (GRC) platform for auditing LLM prompts, scanning vulnerabilities, and tracking EU AI Act, NIST AI RMF, and ISO/IEC 42001 controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
